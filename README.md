@@ -1,6 +1,6 @@
-{{AppVeyor build status badge for master branch}}
+[![Build status](https://ci.appveyor.com/api/projects/status/2f73cnimuofa6v20/branch/master?svg=true)](https://ci.appveyor.com/project/PowerShell/xinternetexplorerhomepage/branch/master)
 
-#{{ModuleName}}
+# xInternetExplorerHomePage
 
 {{Description}}
 
